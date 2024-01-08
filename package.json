@@ -1,8 +1,8 @@
 {
-  "name": "vue-client-intro",
+  "name": "component-kullanimi",
   "description": "A Vue.js project",
   "version": "1.0.0",
-  "author": "Mehmet Cinci",
+  "author": "gkandemi <gokhan@gkandemir.com>",
   "license": "MIT",
   "private": true,
   "scripts": {

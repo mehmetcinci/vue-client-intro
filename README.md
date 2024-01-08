@@ -1,4 +1,4 @@
-# vue-client-intro
+# component-kullanimi
 
 > A Vue.js project
 
